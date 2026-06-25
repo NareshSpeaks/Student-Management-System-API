@@ -387,5 +387,5 @@ routes/studentRoutes.js
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yashavshukla">Yashav Shukla</a>
+  Made with ❤️ by <a href="https://github.com/yashavshukla">R Naresh </a>
 </p>
