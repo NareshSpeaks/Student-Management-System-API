@@ -355,33 +355,6 @@ Defines API endpoints.
 routes/studentRoutes.js
 ```
 
----
-## 👨‍💻 Author
-
-<p align="center">
-  <a href="https://github.com/yashav-shukla">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Yashav Shukla</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashav-shukla">
-    GitHub Profile
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashav-shukla/student-management-api-2">
-    Project Repository
-  </a>
-</p>
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
